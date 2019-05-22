@@ -11,6 +11,7 @@
 - Kickoff project layer overview generation reactively [\#4936](https://github.com/raster-foundry/raster-foundry/pull/4936)
 - Added ability to persist container service core dumps [\#4955](https://github.com/raster-foundry/raster-foundry/pull/4955)
 - Support storing processed uploads in source bucket [\#4997](https://github.com/raster-foundry/raster-foundry/pull/4997)
+- Add spec for user scopes CRUD [\#5002](https://github.com/raster-foundry/raster-foundry/pull/5002)
 
 ### Changed
 
